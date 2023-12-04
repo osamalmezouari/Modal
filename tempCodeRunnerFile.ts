@@ -1,0 +1,1 @@
+modelContent.style.display = "grid"
